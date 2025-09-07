@@ -1,1 +1,1 @@
-# 2025.01-Hybrid_Framework_based_on_SD_and_GAN_for_Black-and-White_Image_Restoration
+# [2025.01 - KCSE] Hybrid Framework Based on Stable Diffusion and GAN for Black-and-White Image Restoration
