@@ -1,4 +1,4 @@
-# [2025.01 - KCSE] Hybrid Framework Based on Stable Diffusion and GAN for Black-and-White Image Restoration
+# [2025.01 - KCSE] Stable Diffusion and GAN-Based Hybrid Framework for Gray-scale Image Recovery
 
 ---
 
