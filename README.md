@@ -15,10 +15,10 @@
 ---
 
    <p align="left">
-     <img width="500" height="700" alt="Image" src="https://github.com/user-attachments/assets/cd2ad915-8cd0-43a1-9932-05928dbf4e5e" />
-     <img width="500" height="700" alt="Image" src="https://github.com/user-attachments/assets/9bd63d93-e0d3-4b01-bc07-82b534e22e5f" />
-     <img width="500" height="700" alt="Image" src="https://github.com/user-attachments/assets/b94de02a-fb6d-4edc-929f-f791cadb20b8" />
-     <img width="500" height="700" alt="Image" src="https://github.com/user-attachments/assets/b6d06e21-ae93-43df-8d1a-a183a5c17ac5" />
+     <img width="450" height="700" alt="Image" src="https://github.com/user-attachments/assets/cd2ad915-8cd0-43a1-9932-05928dbf4e5e" />
+     <img width="450" height="700" alt="Image" src="https://github.com/user-attachments/assets/9bd63d93-e0d3-4b01-bc07-82b534e22e5f" />
+     <img width="450" height="700" alt="Image" src="https://github.com/user-attachments/assets/b94de02a-fb6d-4edc-929f-f791cadb20b8" />
+     <img width="450" height="700" alt="Image" src="https://github.com/user-attachments/assets/b6d06e21-ae93-43df-8d1a-a183a5c17ac5" />
    </p>
 
 
